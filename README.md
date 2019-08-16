@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# clone API repository from this link
+https://gitlab.com/workshop-go-gt/tugas-kelompok
+
 # set API base url at env file
 BASE_URL = "http://localhost:3434"
 
